@@ -1,0 +1,1381 @@
+[
+  {
+    "id": 791570252,
+    "title": "1. Anh/Chị/Bạn là:",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Học sinh",
+        "weight": 33
+      },
+      {
+        "value": "Phụ huynh",
+        "weight": 33
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "id": 1377999035,
+    "title": "2. Giới tính",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Nam",
+        "weight": 50
+      },
+      {
+        "value": "Nữ",
+        "weight": 50
+      }
+    ]
+  },
+  {
+    "id": 1925814235,
+    "title": "3. Độ tuổi của Anh/Chị/Bạn:",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Dưới 15 tuổi",
+        "weight": 17
+      },
+      {
+        "value": "Từ 15-18 tuổi",
+        "weight": 17
+      },
+      {
+        "value": "Từ 19 – 35 tuổi",
+        "weight": 17
+      },
+      {
+        "value": "Từ 36 – 45 tuổi",
+        "weight": 17
+      },
+      {
+        "value": "Trên 45 tuổi",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 623838069,
+    "title": "4. Nghề nghiệp của Anh/Chị/Bạn là:",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Học sinh",
+        "weight": 14
+      },
+      {
+        "value": "Nhân viên văn phòng",
+        "weight": 14
+      },
+      {
+        "value": "Công nhân / lao động phổ thông",
+        "weight": 14
+      },
+      {
+        "value": "Kinh doanh / buôn bán",
+        "weight": 14
+      },
+      {
+        "value": "Nội trợ",
+        "weight": 14
+      },
+      {
+        "value": "Khác",
+        "weight": 14
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 14
+      }
+    ]
+  },
+  {
+    "id": 100901715,
+    "title": "5. Khối lớp của học sinh học tại trung tâm:",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Cấp 1",
+        "weight": 25
+      },
+      {
+        "value": "Cấp 2",
+        "weight": 25
+      },
+      {
+        "value": "Cấp 3",
+        "weight": 25
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 25
+      }
+    ]
+  },
+  {
+    "id": 464081603,
+    "title": "6. Môn học học sinh đang theo học tại trung tâm Olym10+: (Có thể chọn nhiều)",
+    "type": 4,
+    "choices": [
+      {
+        "value": "Toán",
+        "weight": 14
+      },
+      {
+        "value": "Văn",
+        "weight": 14
+      },
+      {
+        "value": "Anh",
+        "weight": 14
+      },
+      {
+        "value": "Lý",
+        "weight": 14
+      },
+      {
+        "value": "Hóa",
+        "weight": 14
+      },
+      {
+        "value": "Khác",
+        "weight": 14
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 14
+      }
+    ]
+  },
+  {
+    "id": 2131816181,
+    "title": "7. Thời gian theo học tại trung tâm",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Dưới 3 tháng",
+        "weight": 20
+      },
+      {
+        "value": "Từ 3 – dưới 6 tháng",
+        "weight": 20
+      },
+      {
+        "value": "Từ 6 – 12 tháng",
+        "weight": 20
+      },
+      {
+        "value": "Trên 1 năm",
+        "weight": 20
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "id": 553596641,
+    "title": "8. Khoảng cách từ nhà đến trung tâm?",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Dưới 1 km",
+        "weight": 25
+      },
+      {
+        "value": "Từ 1 – 5 km",
+        "weight": 25
+      },
+      {
+        "value": "Trên 5 km",
+        "weight": 25
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 25
+      }
+    ]
+  },
+  {
+    "id": 686232027,
+    "title": "9. Anh/Chị/Bạn biết đến trung tâm qua đâu?",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Bạn bè / người quen giới thiệu",
+        "weight": 14
+      },
+      {
+        "value": "Facebook / mạng xã hội",
+        "weight": 14
+      },
+      {
+        "value": "Giáo viên giới thiệu",
+        "weight": 14
+      },
+      {
+        "value": "Đi ngang trung tâm",
+        "weight": 14
+      },
+      {
+        "value": "Thông qua các hoạt động tại trường học",
+        "weight": 14
+      },
+      {
+        "value": "Khác",
+        "weight": 14
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 14
+      }
+    ]
+  },
+  {
+    "id": 204294926,
+    "title": "10. Ai là người đăng ký học thêm cho học sinh?",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Mẹ",
+        "weight": 17
+      },
+      {
+        "value": "Ba (bố)",
+        "weight": 17
+      },
+      {
+        "value": "Ông/bà hoặc người thân khác",
+        "weight": 17
+      },
+      {
+        "value": "Học sinh tự đi",
+        "weight": 17
+      },
+      {
+        "value": "Khác",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1784948072,
+    "title": "11. Bạn thường gặp những khó khăn gì trong học tập? (Có thể chọn nhiều)",
+    "type": 4,
+    "choices": [
+      {
+        "value": "Dễ mất tập trung trong giờ học",
+        "weight": 17
+      },
+      {
+        "value": "Ngại hỏi bài do sợ sai hoặc sợ bị chú ý",
+        "weight": 17
+      },
+      {
+        "value": "Thiếu tự tin khi tiếp cận các môn học chính",
+        "weight": 17
+      },
+      {
+        "value": "Dễ nản chí khi gặp bài tập khó hoặc kiến thức mới",
+        "weight": 17
+      },
+      {
+        "value": "Không gặp khó khăn nào",
+        "weight": 17
+      },
+      {
+        "value": "Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 424475478,
+    "title": "12. Thu nhập bình quân hàng tháng của gia đình Anh/Chị là bao nhiêu?",
+    "type": 2,
+    "choices": [
+      {
+        "value": "Dưới 10 triệu",
+        "weight": 33
+      },
+      {
+        "value": "Từ 10 – 20 triệu",
+        "weight": 33
+      },
+      {
+        "value": "Trên 20 triệu",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "id": 2120101002,
+    "title": "13. Lý do của phụ huynh khi cho con đi học thêm tại trung tâm Olym10+: (Có thể chọn nhiều đáp án)",
+    "type": 4,
+    "choices": [
+      {
+        "value": "Thời gian dành cho việc kèm cặp con học tại nhà hạn chế",
+        "weight": 11
+      },
+      {
+        "value": "Khả năng hỗ trợ chuyên môn cho con còn nhiều hạn chế",
+        "weight": 11
+      },
+      {
+        "value": "Phụ thuộc nhiều vào phản hồi từ nhà trường và các kênh thông tin gián tiếp",
+        "weight": 11
+      },
+      {
+        "value": "Con học yếu hoặc trung bình trong thời gian dài, không theo kịp chương trình học chính khóa",
+        "weight": 11
+      },
+      {
+        "value": "Kiến thức nền của con bị hổng, đặc biệt ở các môn Toán, Tiếng Anh và các môn tư duy",
+        "weight": 11
+      },
+      {
+        "value": "Thái độ học tập của con suy giảm, dễ chán nản và thiếu động lực",
+        "weight": 11
+      },
+      {
+        "value": "Đã từng cho con đi học thêm nơi khác nhưng không hiệu quả",
+        "weight": 11
+      },
+      {
+        "value": "Chuẩn bị cho các kỳ thi quan trọng của con",
+        "weight": 11
+      },
+      {
+        "value": "Khác",
+        "weight": 11
+      }
+    ]
+  },
+  {
+    "id": 1007069077,
+    "title": "1. Trung tâm có lộ trình học rõ ràng, phù hợp với học sinh (Yếu – Trung bình- Khá – Giỏi)",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1000871104,
+    "title": "2. Phương pháp giảng dạy giúp học sinh hiểu bài và vận dụng tốt.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 959937141,
+    "title": "3. Chương trình học tại trung tâm hiệu quả hơn so với đối thủ cạnh tranh",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1166513250,
+    "title": "4. Có các hoạt động học tập (thi đua, trò chơi, ngoại khóa) tạo hứng thú cho học sinh",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 74284835,
+    "title": "5. Chương trình học bám sát sách giáo khoa, trên trường",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 2033131683,
+    "title": "6. Học phí của trung tâm phù hợp với chất lượng giảng dạy",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1870937875,
+    "title": "7. Mức học phí của trung tâm hợp lý so với các trung tâm khác",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1675376132,
+    "title": "8. Các khoản thu và chính sách học phí được trung tâm thông báo rõ ràng, minh bạch.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1640394191,
+    "title": "9. Chính sách học phí linh hoạt",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 20
+      },
+      {
+        "value": "2",
+        "weight": 20
+      },
+      {
+        "value": "3",
+        "weight": 20
+      },
+      {
+        "value": "4",
+        "weight": 20
+      },
+      {
+        "value": "5",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "id": 1445934146,
+    "title": "10.  Vị trí trung tâm thuận tiện cho việc đi lại, dễ tìm kiếm và tiếp cận.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1056551394,
+    "title": "11.  Thời gian học tại trung tâm linh hoạt, phù hợp với học viên ",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1770559029,
+    "title": "12. Website và các kênh trực tuyến của trung tâm giúp học viên dễ dàng tìm kiếm và đăng ký khóa học ",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1791313376,
+    "title": "13. Trung tâm thường xuyên quảng bá trên các kênh trực tuyến (Facebook, tiktok, zalo,…)",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 722846223,
+    "title": "14. Trung tâm có các chương trình ưu đãi học phí, học thử hấp dẫn",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 686590679,
+    "title": "15. Trung tâm có các hoạt động quảng bá tại trường học hoặc khu vực xung quanh",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1737086511,
+    "title": "16. Nhân viên tư vấn cung cấp thông tin rõ ràng và đầy đủ",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 577897437,
+    "title": "17. Giáo viên tại trung tâm có chuyên môn tốt và giảng bài dễ hiểu",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1534944558,
+    "title": "18. Giáo viên nhiệt tình, quan tâm đến kết quả học tập của học sinh.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1090732468,
+    "title": "19. Nhân viên trung tâm (tư vấn, bảo vệ, lao công…) hỗ trợ học sinh và phụ huynh tận tình.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1629965579,
+    "title": "20. Trung tâm luôn xây dựng mối quan hệ tốt đẹp với phụ huynh và học sinh",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 784817435,
+    "title": "21. Quy trình đăng ký học tại trung tâm đơn giản và thuận tiện",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1711696476,
+    "title": "22. Trung tâm thường xuyên thông báo tình hình học tập của học sinh cho phụ huynh.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 180209607,
+    "title": "23.  Quá trình giảng dạy, phân bổ thời gian lý thuyết và thực hành hợp lý.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1873921496,
+    "title": "24. Trung tâm giải quyết các vấn đề của học sinh và phụ huynh nhanh chóng.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 966632098,
+    "title": "25. Phòng học tại trung tâm rộng rãi, sạch sẽ",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1326277336,
+    "title": "26. Trang thiết bị phục vụ giảng dạy và học tập sử dụng tốt",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 378525762,
+    "title": "27. Cung cấp các phần mềm trực tuyến hiện đại hỗ trợ học tập",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 1052065550,
+    "title": "28. Trung tâm có khu vực giữ xe rộng rãi và an toàn cho học sinh và phụ huynh.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 260985880,
+    "title": "29. Tôi hài lòng với chất lượng dịch vụ của trung tâm.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 918611100,
+    "title": "30. Tôi sẽ tiếp tục đăng ký học tại trung tâm trong thời gian tới.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 744971590,
+    "title": "31. Tôi sẵn sàng giới thiệu trung tâm cho bạn bè hoặc người quen.",
+    "type": 5,
+    "choices": [
+      {
+        "value": "1",
+        "weight": 17
+      },
+      {
+        "value": "2",
+        "weight": 17
+      },
+      {
+        "value": "3",
+        "weight": 17
+      },
+      {
+        "value": "4",
+        "weight": 17
+      },
+      {
+        "value": "5",
+        "weight": 17
+      },
+      {
+        "value": "Mục: Khác",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "id": 2109189513,
+    "title": "14. Anh/Chị/Bạn mong muốn trung tâm cải thiện điều gì trong thời gian tới? (Có thể chọn nhiều)",
+    "type": 4,
+    "choices": [
+      {
+        "value": "Cải thiện vệ sinh phòng học (sạch sẽ, gọn gàng hơn)",
+        "weight": 8
+      },
+      {
+        "value": "Bảo trì hoặc thay mới thiết bị phòng học (máy lạnh, quạt, đèn…)",
+        "weight": 8
+      },
+      {
+        "value": "Nâng cấp cơ sở vật chất trong lớp học (bàn ghế, bảng, máy chiếu…)",
+        "weight": 8
+      },
+      {
+        "value": "Sắp xếp hoặc mở rộng khu vực để xe thuận tiện hơn",
+        "weight": 8
+      },
+      {
+        "value": "Cải thiện không gian và hình ảnh của trung tâm (trang trí, bảng hiệu, môi trường học tập, không gian lớp học,…)",
+        "weight": 8
+      },
+      {
+        "value": "Đăng tải tài liệu và thông tin học tập trên website hoặc mạng xã hội của trung tâm",
+        "weight": 8
+      },
+      {
+        "value": "Tăng cường thông tin liên lạc với phụ huynh về tình hình học tập của học sinh",
+        "weight": 8
+      },
+      {
+        "value": "Mở thêm lớp học hoặc khung giờ học phù hợp hơn",
+        "weight": 8
+      },
+      {
+        "value": "Điều chỉnh học phí hoặc có thêm chính sách ưu đãi",
+        "weight": 8
+      },
+      {
+        "value": "Trung tâm hỗ trợ đưa rước học sinh",
+        "weight": 8
+      },
+      {
+        "value": "Áp dụng thực hành vào giảng dạy các môn học như vật lý, hóa học, tiếng anh,…",
+        "weight": 8
+      },
+      {
+        "value": "Khác",
+        "weight": 8
+      }
+    ]
+  }
+]
